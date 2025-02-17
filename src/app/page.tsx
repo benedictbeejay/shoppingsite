@@ -1,8 +1,8 @@
 "use client";
-import CategoryList from "./components/CategoryList";
-import Footer from "./components/Footer";
+import CategoryList from "@/components/CategoryList";
+import Footer from "@/components/Footer";
 import ProductList from "./components/ProductList";
-import Slider from "./components/Slider";
+import Slider from "@/components/Slider";
 
 const HomePage = () => {
   return (
